@@ -1,6 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namitry)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namitry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
