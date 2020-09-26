@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=namitry)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA, AA, A)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namitry)](https://github.com/anuraghazra/github-readme-stats)
 
