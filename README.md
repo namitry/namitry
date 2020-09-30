@@ -1,7 +1,7 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA,AA,A)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namitry)
+![trophy](https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA,AA,A)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=namitry&count_private=true)
 
-[![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/vue/0-profile-details.svg)]
+[![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/default/2-most-commit-language.svg)]
 
 <!--
 **namitry/namitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
