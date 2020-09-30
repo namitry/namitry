@@ -1,5 +1,5 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=namitry&rank=S,AAA,AA,A" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=namitry&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=namitry&count_private=true" />
 
 ![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/namitry/namitry/master/profile-summary-card-output/default/2-most-commit-language.svg)
