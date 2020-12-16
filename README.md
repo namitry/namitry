@@ -40,3 +40,8 @@ Unityの機械学習プラグインであるML-Agentを用いて、Unityの3Dキ
 ・YouTubeにて英語で20分間のライブ講演を行った  
 ### 【開発環境】
 Unity, Unity Machine Learning Agents Toolkit, Python
+
+# 【登壇歴】
+### 2020年10月 MixLeap 第3回 制作物天下一武道会 (主催: Yahoo株式会社)
+### 2020年7月 Tech Talk: Unity Reinforcement Learning for Everyone (主催: Code Chrysalis)
+
