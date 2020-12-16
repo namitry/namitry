@@ -6,7 +6,7 @@
 
 
 # My projects are here!
-## Furball Tales｜bit.ly/30xCQah  
+## Furball Tales｜Google Play http://bit.ly/30xCQah  
 2020年9月、3ヶ国5人の多国籍チームにて技術選定・アプリ企画・マーケティングピッチまで含め3週間  
 ### 【概要】
 ペット情報を上手に管理をすることで、ペットとの絆を深めるAndroidアプリ
